@@ -50,6 +50,10 @@ Linux has park kind arch marry.
 
 Linux has park kind arch land.
 
+Linux has park mark.
+
+Linux has park cross.
+
 Linux is did.
 
 Linux has major.
