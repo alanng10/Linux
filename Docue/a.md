@@ -1,6 +1,6 @@
 # Linux
 
-Linux is binary system written in Sande Lang.
+Linux is binary system written in Sand Lang.
 
 Linux is park binary system.
 
