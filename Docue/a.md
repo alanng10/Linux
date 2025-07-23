@@ -57,3 +57,5 @@ Linux has park cross.
 Linux is did.
 
 Linux has major.
+
+Linux has Kernel.
