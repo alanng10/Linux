@@ -59,3 +59,9 @@ Linux is did.
 Linux has major.
 
 Linux has Kernel.
+
+Linux Kernel has class.
+
+Linux has Kernel module.
+
+Linux Kernel module has class.
