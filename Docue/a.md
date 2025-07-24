@@ -71,3 +71,5 @@ Linux has binary.
 Linux binary is store in Storage.
 
 Linux binary is load entire.
+
+Linux binary is load to memory index 0.
