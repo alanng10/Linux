@@ -69,3 +69,5 @@ Linux Kernel module has class.
 Linux has binary.
 
 Linux binary is store in Storage.
+
+Linux binary is load entire.
