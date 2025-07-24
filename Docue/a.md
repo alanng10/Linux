@@ -65,3 +65,7 @@ Linux Kernel has class.
 Linux has Kernel module.
 
 Linux Kernel module has class.
+
+Linux has binary.
+
+Linux binary is store in Storage.
